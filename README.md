@@ -2,9 +2,9 @@
 Introduction, overview, brief discussion about my project, and etc. 
 
 # Prerequisites
--Python 3.x
--TensorFlow 1.8.0 (to check, run python -c "import tensorflow as tf; print(tf.__version__)")
--[SciPy](https://www.scipy.org/install.html)
+- Python 3.x
+- TensorFlow 1.8.0 (to check, run python -c "import tensorflow as tf; print(tf.__version__)")
+- [SciPy](https://www.scipy.org/install.html)
 
 ### Setup
 - Clone this repo: 
