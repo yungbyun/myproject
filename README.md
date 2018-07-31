@@ -6,7 +6,7 @@ Introduction, overview, brief discussion about my project, and etc.
 - TensorFlow 1.8.0 (to check, run python -c "import tensorflow as tf; print(tf.__version__)")
 - [SciPy](https://www.scipy.org/install.html)
 
-### Setup
+# Setup
 - Clone this repo: 
 ```bash
 git clone https://github.com/elliottwu/sText2Image.git
@@ -18,7 +18,7 @@ cd sText2Image
 sh ./datasets/download_dataset.sh
 ```
 
-### Train
+# Train
 ```bash
 sh train.sh
 ```
@@ -27,12 +27,12 @@ sh train.sh
 tensorboard --logdir=logs_face --port=8888
 ```
 
-### Test
+# Test
 ```bash
 sh test.sh
 ```
 
-### Pretrained Model
+# Pretrained Model
 - Download pretrained model: 
 ```bash
 sh download_pretrained_model.sh
